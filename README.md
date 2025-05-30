@@ -22,7 +22,7 @@ Welcome to **Aesthetic Dreams** – an immersive front-end experience showcasing
 - **Frontend**: React.js (with Hooks)
 - **Styling**: Custom CSS with glassmorphism and animations
 - **Assets**: Local image assets (`bg2.png`, `bg3.jpg`)
-- **Icons**: Font Awesome (optional for full social icons)
+- **Icons**: Font Awesome 
 
 ## 📦 Installation & Setup
 
