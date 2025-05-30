@@ -8,14 +8,14 @@ Welcome to **Aesthetic Dreams** – an immersive front-end experience showcasing
 
 ## 🚀 Features
 
-- 🔄 Elegant loading screen with custom animation
-- 🎨 Aesthetic-themed UI with glowing gradient text
-- 📜 Smooth scroll cues and transitions
-- 📷 Responsive imagery with layered text overlays
-- 🧭 Navigation bar with animated buttons
-- 📱 Fully responsive layout for desktop and mobile
-- 🦄 Anime-inspired visual storytelling
-- 👣 Footer with social icons and quick links
+-  Elegant loading screen with custom animation
+-  Aesthetic-themed UI with glowing gradient text
+-  Smooth scroll cues and transitions
+-  Responsive imagery with layered text overlays
+-  Navigation bar with animated buttons
+-  Fully responsive layout for desktop and mobile
+-  Anime-inspired visual storytelling
+-  Footer with social icons and quick links
 
 ## 🛠 Tech Stack
 
@@ -30,10 +30,10 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/aesthetic-dreams.git
+git clone https://github.com/nav-jk/Art.git
 
 # Navigate into the project directory
-cd aesthetic-dreams
+cd Art
 
 # Install dependencies
 npm install
