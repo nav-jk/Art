@@ -4,7 +4,7 @@ A visually stunning, anime-inspired React website where **code meets art** in vi
 
 Welcome to **Aesthetic Dreams** – an immersive front-end experience showcasing elegant animations, modern design, and a thematic blend of creativity and functionality.
 
-![Preview](./assets/bg2.png)
+![Preview](./preview.png)
 
 ## 🚀 Features
 
